@@ -87,13 +87,13 @@ export default {
         this.tasks = response.data;
       });
     },
-    addTask(task) {
+    addTask(description) {
       itemId++;
       this.isLoading = true;
       axios
         .post(baseUrl, {
           id: itemId,
-          description: task,
+          description: description,
           isdone: false
         })
         .then(response => {

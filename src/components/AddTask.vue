@@ -39,12 +39,6 @@ export default {
   width: 100px;
 }
 
-label {
-  font-weight: bold;
-  margin-right: 1rem;
-  width: 7rem;
-  display: inline-block;
-}
 form div {
   margin: 1rem 0;
 }

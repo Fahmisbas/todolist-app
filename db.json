@@ -1,33 +1,18 @@
 {
   "todos": [
     {
-      "id": 7,
-      "description": "ekfjbfekjbjfekbfe",
-      "isdone": false
-    },
-    {
-      "id": 8,
-      "description": "fleneflnfelnfe",
-      "isdone": false
-    },
-    {
       "id": 9,
-      "description": "lkfenlkfenlnefnfelfe",
-      "isdone": false
+      "description": "Fahmi Sulaiman Baswedan hehehe",
+      "isdone": true
     },
     {
       "id": 10,
-      "description": "felnfelknef",
+      "description": "Swimming",
       "isdone": false
     },
     {
       "id": 11,
-      "description": "flkenflkfe",
-      "isdone": false
-    },
-    {
-      "id": 12,
-      "description": "lkkneflk;fen",
+      "description": "FahmI Sulaiman Baswedan",
       "isdone": false
     }
   ]
