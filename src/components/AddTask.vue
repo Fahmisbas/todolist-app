@@ -4,7 +4,7 @@
       <div>
         <div class="d-flex">
           <input class="form-control mr-1"  v-model="inputTask" placeholder="Swimming" />
-           <b-button  variant="primary" class="btn btn-primary btn-add">Add</b-button>
+           <button  variant="primary" class="btn btn-primary btn-add">Add</button>
         </div>
       </div>
     </form>
